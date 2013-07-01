@@ -7,7 +7,7 @@ object ScalaCommonBuild extends Build {
     base = file("."),
     settings = Project.defaultSettings ++ Seq(
       name := "scala common",
-      organization := "fab",
+      organization := "com.github.scalacommon",
       version := "0.1",
       scalaVersion := "2.10.1",
       libraryDependencies ++= Seq(

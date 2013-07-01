@@ -1,4 +1,4 @@
-package com.github.scala.common
+package com.github.scalacommon
 
 import scala.language.implicitConversions
 

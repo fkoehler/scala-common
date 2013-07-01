@@ -1,4 +1,4 @@
-package com.github.scala.common
+package com.github.scalacommon
 
 object Math {
   final def trunc(x: Double, n: Int): Double = {
